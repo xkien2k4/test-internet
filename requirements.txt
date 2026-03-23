@@ -1,2 +1,0 @@
-speedtest-cli
-or speedtest-cli==2.1.3
